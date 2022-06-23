@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo del Campillo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Calculator & Converter](https://github.com/mateodelcampillo/mateodelcampillo-ProyectoFinal-Js-Coder-House)
 
